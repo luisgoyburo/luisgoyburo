@@ -1,16 +1,14 @@
 ---
-name: Tails Azimuth
-avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+name: Luis Goyburo
+avatar: /static/images/fotoLinkedin.jpg
+occupation: Full Stack Developer
+company: Apercloud / Balcari Editores
+email: luisgoyburo@balcarieditores.pe
+twitter: https://twitter.com/GoyburoRLuisO
+linkedin: https://www.linkedin.com/in/luis-goyburo-reeves/
+github: https://github.com/luisgoyburo
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+I am a Full Stack developer with years of experience leading both front-end and back-end development, and performing quality assurance. Led teams of 5-10 people across technology, business, design and printing departments.
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am interested in creating applications that can have an impact on their respective markets, aimed at maximus customer satisfaction. Regarding my personal development, I want to delve into cutting-edge technologies, and then contribute to the dissemination and development of Web3.

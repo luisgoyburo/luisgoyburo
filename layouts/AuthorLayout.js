@@ -9,8 +9,8 @@ export default function AuthorLayout({ children, frontMatter }) {
     <>
       <PageSEO title={`About - ${name}`} description={`About me - ${name}`} />
       <div className="divide-y">
-        <div className="pt-6 pb-8 space-y-2 md:space-y-5">
-          <h1 className="text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14">
+        <div className="pt-6 px-20 pb-8 space-y-2 md:space-y-5">
+          <h1 className="text-3xl font-extrabold leading-9 tracking-tight text-blue-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14">
             About
           </h1>
         </div>
@@ -33,7 +33,9 @@ export default function AuthorLayout({ children, frontMatter }) {
               <SocialIcon kind="twitter" href={twitter} />
             </div>
           </div>
-          <div className="pt-8 pb-8 prose dark:prose-dark max-w-none xl:col-span-2">{children}</div>
+          <div className="pt-8 pb-8 px-20 xl:pl-0 prose dark:prose-dark max-w-none xl:col-span-2">
+            {children}
+          </div>
         </div>
       </div>
     </>
